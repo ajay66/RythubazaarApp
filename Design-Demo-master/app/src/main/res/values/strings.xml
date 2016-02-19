@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Design Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_item_attachment">Attachment</string>
+    <string name="nav_item_images">Images</string>
+    <string name="nav_item_location">My Location</string>
+    <string name="nav_sub_menu">Sub Menu</string>
+    <string name="nav_sub_menu_item01">Sub Menu Item 1</string>
+    <string name="nav_sub_menu_item02">Sub Menu Item 2</string>
+    <string name="drawer_header_text">Drawer Header</string>
+    <string name="second_activity_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consectetur diam id aliquam scelerisque. Donec ultrices lacus vel dignissim pharetra. Vivamus pharetra augue quis rhoncus placerat. Sed ultricies at risus non cursus. Nam rutrum leo nec placerat consectetur. Vestibulum feugiat eleifend diam, nec interdum augue tincidunt sit amet. Praesent feugiat est auctor lacus consectetur, vitae pellentesque dolor laoreet.</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="nav_item_rythubazaar_list">Rythubazaar List</string>
+    <string name="nav_item_comp">Comparision</string>
+    <string name="nav_item_addr">Finding Location</string>
+    <string name="nav_item_about">About Us</string>
+    <string name="title_activity_comparision">ComparisionActivity</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+
+    <string name="tomato">Tomato</string>
+    <string name="difference">U can find difference between different raithubazaars.</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_selected_bazaar">SelectedBazaarActivity</string>
+
+    <string name="title">Rythubazaar App</string>
+    <string name="sort_alpha">Alphabet Sorting</string>
+    <string name="sort_num">Numeric Sorting</string>
+
+    <string name="about_us">
+About Us
+Etisbew is a global software solutions provider that has been providing high quality and effective solutions to its clients. We have built an good reputation for ourselves by providing professional software solutions that are delivered on time and within budget.We are a US registered and ISO 9001:2008 certified organization. We currently serve our customers through its global delivery centers in Iselin, NJ (USA), Montreal (Canada), Dubai (UAE) and Cambridge (UK).
+
+Our Vision is to "provide Continuous Value Addition to our Clients with the best and most innovative technologies by delivering excellent web, social and mobile solutions". Our global presence, process oriented methodologies and efficient delivery models enable us to provide an integrated and highly flexible mix of on-site, off-site, near-shore and offshore delivery options.
+</string>
+    <string name="title_activity_locations">Map</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_select_bazar">SelectBazarActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+
+</resources>
